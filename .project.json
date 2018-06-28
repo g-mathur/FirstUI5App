@@ -27,6 +27,7 @@
     "defaultLanguage": "en",
     "defaultI18NPropertyFile": "i18n.properties",
     "resourceModelName": "i18n"
+    
   },
   "basevalidator": {
     "services": {
